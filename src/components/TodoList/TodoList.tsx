@@ -14,7 +14,7 @@ const TodoList = ({ items, onMoveItem }: TodoListProps) => (
 
     <div className="relative z-10">
       <div className="bg-blueberry-dark/80 text-white font-bold py-2 px-4 rounded-lg shadow-md inline-block mb-4 transform -rotate-2">
-        <h2 className="text-xl text-black">Todo List</h2>
+        <h2 className="text-xl text-white">Todo List</h2>
       </div>
 
       <div className="flex flex-col gap-3">
